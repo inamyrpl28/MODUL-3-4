@@ -21,9 +21,9 @@ echo check_login();
    </style>
    <body>
      <h1 align ="center" ><font color = "red">Selamat datang!</font></h1>
-     <h1 align ="center" ><font color = "red">Di pengisian formulir PT pencari cinta</font></h1>
+     <h1 align ="center" ><font color = "red">Di pengisian formulir</font></h1>
      <h3 align = "right"><a href="login1.php" >Keluar</a></h3>
-       <img src="reza.jpg" alt="gambar" width="200" height="auto" hspace ="500" vspace = "0">
+       <img src="amy.jpg" alt="gambar" width="200" height="auto" hspace ="500" vspace = "0">
        <div class="container">
          <form action="login4.php" method="post">
            <table cellpadding="5">
