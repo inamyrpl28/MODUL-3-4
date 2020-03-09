@@ -11,7 +11,7 @@ echo check_login();
    </head>
    <style media="screen">
    body{
-     background-image: url("background.png");
+     background-image: url("background.jpg");
    }
    .container{
        margin-top: 175px ;
