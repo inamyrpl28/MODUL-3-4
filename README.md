@@ -49,3 +49,11 @@ Penjelasan	Latihan	6	Pada	program	di	atas,	fungsi	date()	dengan	parameter	â€œYâ€
 ![Alt Text](https://github.com/inamyrpl28/MODUL-3-4/blob/master/modul4%20beranda.PNG)
 
 ## Tugas Praktikum 
+### LUAS DAN VOLUME KUBUS
+![Alt Text](https://github.com/inamyrpl28/MODUL-3-4/blob/master/luas%20dan%20volume%20kubus.PNG)
+
+LUAS KUBUS
+![Alt Text](https://github.com/inamyrpl28/MODUL-3-4/blob/master/luas.PNG)
+
+VOLUME KUBUS
+![Alt Text](https://github.com/inamyrpl28/MODUL-3-4/blob/master/volume.PNG)
