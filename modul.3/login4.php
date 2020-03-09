@@ -10,7 +10,7 @@
   <script src="assets/js/bootstrap.js"></script>
   <style media="screen">
   body{
-    background-image: url("background.png");
+    background-image: url("background.jpg");
   }
   .card{
       margin-top: 175px ;
@@ -62,7 +62,7 @@
             echo "kelas anda = $kelas<br>";
             echo "pesan anda = $pesan<br>";
              ?>
-             <h3 align = "right"><a href="keluaran.php" >OK</a></h3>
+             <h3 align = "right"><a href="logout.php" >OK</a></h3>
              <h3 align = "right"><a href="login2.php" >kembali</a></h3>
           </div>
         </div>
