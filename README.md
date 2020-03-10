@@ -57,3 +57,9 @@ LUAS KUBUS
 
 VOLUME KUBUS
 ![Alt Text](https://github.com/inamyrpl28/MODUL-3-4/blob/master/volume.PNG)
+
+# Tugas Membuat Data Siswa
+![Alt Text](https://github.com/inamyrpl28/MODUL-3-4/blob/master/jadi1.PNG)
+
+![Alt Text](https://github.com/inamyrpl28/MODUL-3-4/blob/master/jadi2.PNG)
+
